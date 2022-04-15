@@ -1,0 +1,14 @@
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\bin\Debug\ex11_2.exe.config
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\bin\Debug\ex11_2.exe
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\bin\Debug\ex11_2.pdb
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.csproj.AssemblyReference.cache
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\Interop.ADOX.dll
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.csproj.ResolveComReference.cache
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.frmImport.resources
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.Properties.Resources.resources
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.csproj.GenerateResource.cache
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.csproj.CoreCompileInputs.cache
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.exe
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\obj\Debug\ex11_2.pdb
+C:\Users\thawkins022713\source\repos\ex11_2\ex11_2\bin\Debug\Sea02.accdb
